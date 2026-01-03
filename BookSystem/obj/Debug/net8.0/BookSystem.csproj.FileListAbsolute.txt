@@ -242,3 +242,4 @@ C:\Users\user\Desktop\Integrate (1)\BookSystem\obj\Debug\net8.0\refint\BookSyste
 C:\Users\user\Desktop\Integrate (1)\BookSystem\obj\Debug\net8.0\BookSystem.pdb
 C:\Users\user\Desktop\Integrate (1)\BookSystem\obj\Debug\net8.0\BookSystem.genruntimeconfig.cache
 C:\Users\user\Desktop\Integrate (1)\BookSystem\obj\Debug\net8.0\ref\BookSystem.dll
+C:\Users\user\Desktop\Integrate (1)\BookSystem\obj\Debug\net8.0\BookSystem.sourcelink.json
